@@ -1,6 +1,5 @@
 /*
 Adam Gray
-20364103
 
 This is my utility file used to hold many of the functions
 I used in my main myshell.c file. This helps keep the main
